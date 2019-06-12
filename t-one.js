@@ -7,8 +7,8 @@
 
 
 var simpleExercise = [
-  {a: 11, b:224, name: "M48 Bulldog"},
-  {a:23, b:56, name: "Object 140"},
+  {a: 21, b:224, name: "M48 Bulldog"},
+  {a:23, b:45, name: "Object 140"},
   {a: 32, b:75, name: "T57 Heavy"}
 ]
 
@@ -18,3 +18,5 @@ function concatArray (objArray) {
   })
   return result.join('-=-')
 }
+
+console.log(concatArray)

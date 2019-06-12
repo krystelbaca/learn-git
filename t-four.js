@@ -10,3 +10,5 @@ function calculateAreaOfACircle (radius) {
   return areaCircle 
 }
 
+
+console.log('HEELLO')
