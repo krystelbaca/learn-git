@@ -12,11 +12,8 @@ var simpleExercise = [
   {a: 32, b:75, name: "T57 Heavy"}
 ]
 
-function concatArray (objArray) {
-  var result = objArray.map(function(obj) {
-      return (obj.a + obj.b) + ' ' + obj.name
-  })
-  return result.join('-=-')
-}
+
+
+
 
 console.log(concatArray)
