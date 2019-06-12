@@ -19,4 +19,4 @@ var simpleExercise = [
     return result.join('-=-')
   }
 
-  concatArray(simpleExercise)
+  //concatArray(simpleExercise)
