@@ -1,7 +1,5 @@
 /**
- * Hi Team FIVE! Welcome
- * For this exersice please do:
- * 1. Modify the name of the function.
+ * This is a simple example to use Git flow. 
  * 
  */
 
@@ -19,4 +17,6 @@ var simpleExercise = [
     return result.join('-=-')
   }
 
-  concatArray(simpleExercise)
+concatArray(simpleExercise)
+
+
